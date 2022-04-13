@@ -1,0 +1,37 @@
+_repo: Los-caciques-farsa-comica-de-costumbres-de-politica-rural-distribuida-en-tres-actos_67638
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Arniches y Barrera, Carlos
+    aliases:
+    - Barrera, Carlos Arniches y
+    - Arniches, Carlos
+    - Arniches, C. (Carlos)
+    birthdate: 1866
+    deathdate: 1943
+    gutenberg_agent_id: '47633'
+    url: http://www.gutenberg.org/2009/agents/47633
+    wikipedia: https://es.wikipedia.org/wiki/Carlos_Arniches
+description: ''
+gutenberg_issued: '2022-03-16'
+identifiers:
+  gutenberg: '67638'
+  lccn: '22018744'
+language: es
+pgterms:marc904: https://archive.org/details/loscaciquesfarsa00arni
+pgterms:marc905: 20220218105908arniches
+pgterms:marc906: '1920'
+pgterms:marc907: ES
+production_note: Ramón Pajares Box (This file was produced from images generously
+  made available by The Internet Archive/American Libraries.)
+publication_note: Spain :R. Velasco, impresor,1920.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Spanish drama -- 20th century'
+- GITenberg
+title: "Los caciques\r\nfarsa cómica de costumbres de política rural, distribuída\
+  \ en tres actos"
+url: http://www.gutenberg.org/ebooks/67638
